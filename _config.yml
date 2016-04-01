@@ -7,6 +7,9 @@ collections:
     title: Blog
     output: true
     permalink: blog
+  posts:
+    title: Posts
+    output: true
   uploads:
     title: Uploads
     output: true
