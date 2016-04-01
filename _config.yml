@@ -3,10 +3,6 @@ title: Personal Website
 url: http://niklasjordan.siteleaf.net
 timezone: UTC
 collections:
-  blog:
-    title: Blog
-    output: true
-    permalink: blog
   posts:
     title: Posts
     output: true
