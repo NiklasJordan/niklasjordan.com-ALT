@@ -7,6 +7,8 @@ Title: Ahoy! I am Niklas, a problem solver with passion for good user experience
 Field name: 
 ---
 
+![niklas-jordan.jpg](/uploads/niklas-jordan.jpg)
+
 In the day I’m a <mark>concept developer and researcher for Apps and Websites with a focus of thoughtful user experience</mark> currently employed by [Mandarin Medien](http://www.mandarin-medien.de "Mandarin Medien").  At night, I work on secret projects, and support NGOs with time and knowledge.
 I live in Schwerin, in the Northern Germany. It’s pretty nice here, I think you’d like it.
 
