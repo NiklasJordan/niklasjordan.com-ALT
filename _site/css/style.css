@@ -66,6 +66,13 @@ h1 {
   text-transform: uppercase;
 }
 
+h1.intro {
+  font-size: 1.5rem;
+  text-align: left;
+  text-transform: none;
+  font-weight: normal;
+}
+
 h2 {
   font-size: 1.5rem;
 }
