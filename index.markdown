@@ -2,8 +2,9 @@
 title: Start
 date: 2016-04-01 14:08:00 Z
 position: 0
-Headline: Ahoy! I am Niklas, a problem solver with passion for good user experience and technology.
-Image: /uploads/niklas-jordan.jpg
+Headline: Ahoy! I am Niklas, a problem solver with passion for good user experience
+  and technology.
+Image: "/uploads/niklas-jordan.jpg"
 layout: default
 ---
 
