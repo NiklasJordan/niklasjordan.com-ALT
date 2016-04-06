@@ -2,10 +2,9 @@
 title: Start
 date: 2016-04-01 14:08:00 Z
 position: 0
+Headline: Ahoy! I am Niklas, a problem solver with passion for good user experience and technology.
+Image: /uploads/niklas-jordan.jpg
 layout: default
-Headline: Ahoy! I am Niklas, a problem solver with passion for good user experience
-  and technology.
-Image: "/uploads/niklas-jordan.jpg"
 ---
 
 In the day I’m a <mark>concept developer and researcher for Apps and Websites with a focus of thoughtful user experience</mark> currently employed by [Mandarin Medien](http://www.mandarin-medien.de "Mandarin Medien").  At night, I work on secret projects, and support NGOs with time and knowledge.
