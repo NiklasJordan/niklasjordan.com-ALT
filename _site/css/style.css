@@ -49,6 +49,11 @@ p.post-date {
   -webkit-margin-before: 0rem;
 }
 
+span.post-meta {
+  font-size: 1rem;
+  margin: 0 0 0 0.5rem;
+}
+
 a {
   color: #2a98ed;
   -moz-transition: color 200ms ease;
