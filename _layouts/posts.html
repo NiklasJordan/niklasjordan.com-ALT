@@ -1,5 +1,5 @@
 ---
-layout: Default
+layout: posts
 ---
 
 <!DOCTYPE html>
@@ -32,23 +32,23 @@ layout: Default
   <body>
 
     <header class="Header big" role="banner">
-      <figure>
-        <img src="{{ page['Image'] }}" alt="Niklas Jordan during a consultation">
-        <figcaption>Niklas Jordan – Certified Professional for Usability and User Experience (Original by <a href="http://www.tobias-kruse.com/">Tobias Kruse</a></figcaption>
-      </figure>
+
     </header>
 
     <article role="main">
-      <h1 class="intro">{{ page['Headline'] }}</h1>
-      {{ content }}
-      <h3>Writing</h3>
+      <h1>{{ page['Headline'] }}</h1>
       <p style="margin-bottom: 0.7rem;">I write about opinions on technology focused products and it’s effect on our world.
-        <ul>
         {% for mypost in site.posts reversed %}
-          <li><a href="{{ mypost.url | prepend: site.baseurl }}">{{ mypost.title }}</a></li>
+        {% assign fdate = mypost.date | date: '%b %Y' %}
+        {% if cur_date != fdate %}
+          {% assign cur_date = fdate %}
+          <h2>{{ mypost.date | date: '%B, %Y' }}</h2>
+        {% endif %}
+          <li>
+            <a href="{{ mypost.url | prepend: site.baseurl }}">{{ mypost.title }}</a>
+            <span class="post-meta">{{ mypost.date | date: "%b %-d, %Y" }}</span>
+          </li>
         {% endfor %}
-        <li><a href="/blog">more...</a></li>
-        </ul>
       </p>
       <h3>Contact</h3>
       <p>I ramble on <a href="https://twitter.com/niklas_jordan">Twitter</a>, show my work on <a href="https://dribbble.com/niklasjordan">dribbble</a>, share my code on <a href="https://github.com/NiklasJordan">Github</a>, network on <a href="https://www.linkedin.com/pub/niklas-jordan/22/b94/28b">LinkedIn</a>, and stream the soundtrack of my life on <a href="https://play.spotify.com/user/1116716844">Spotify</a>.</p>

@@ -28,18 +28,25 @@ figcaption {
 }
 
 article {
-    margin: 0 auto;
-    max-width: 32em;
-    padding: 0 1rem;
-    font-family: Georgia, sans-serif;
+  margin: 0 auto;
+  max-width: 32em;
+  padding: 0 1rem;
+  font-family: Georgia, sans-serif;
 }
 
 p {
-    display: block;
-    -webkit-margin-before: 2rem;
-    -webkit-margin-after: 2rem;
-    -webkit-margin-start: 0px;
-    -webkit-margin-end: 0px;
+  display: block;
+  -webkit-margin-before: 2rem;
+  -webkit-margin-after: 2rem;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
+}
+
+p.post-date {
+  font-style: italic;
+  font-size: 1rem;
+  text-align: center;
+  -webkit-margin-before: 0rem;
 }
 
 a {
@@ -61,6 +68,14 @@ a:hover, a:focus {
   color: #0876cb;
 }
 
+p.back a {
+  font-size: 1rem;
+  text-transform: uppercase;
+  font-family: 'Raleway', sans-serif;
+  color: #999d9e;
+  background-image: none;
+}
+
 mark {
   background: #fffacb;
 }
@@ -78,6 +93,7 @@ h1 {
   text-transform: uppercase;
   font-weight: 700;
   text-align: center;
+  -webkit-margin-after: 0rem;
 }
 
 h1.intro {
@@ -86,6 +102,7 @@ h1.intro {
   text-transform: none;
   font-weight: normal;
   max-width: 24em;
+  -webkit-margin-before: 2rem;
 }
 
 h2 {
@@ -105,6 +122,25 @@ h3 + p {
 img {
   width: 45rem;
   margin-left: -3.5rem;
+}
+
+p + ul {
+  -webkit-margin-after: 0rem;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  position: relative;
+  margin-left: 2rem;
+}
+
+li:before {
+    position: absolute;
+    left: -0.75em;
+    content: "-";
 }
 
 @media screen and (max-width: 45rem) {
