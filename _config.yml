@@ -1,6 +1,6 @@
 ---
-title: Personal Website
-url: http://niklasjordan.siteleaf.net
+title: Niklas Jordan
+url: http://niklas-jordan.siteleaf.net
 timezone: UTC
 collections:
   posts:
@@ -9,3 +9,16 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    permalink: "/posts/:title/"
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+permalink: pretty
