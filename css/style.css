@@ -107,6 +107,7 @@ h1.intro {
 
 h2 {
   font-size: 1.2rem;
+  -webkit-margin-after: 0em;
 }
 
 h3 {
@@ -114,7 +115,7 @@ h3 {
   -webkit-margin-after: 0em;
 }
 
-h3 + p {
+h3 + p, h2 + p {
   font-size: 1.2rem;
   -webkit-margin-before: 0em;
 }
