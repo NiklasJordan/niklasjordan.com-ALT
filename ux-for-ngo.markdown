@@ -1,6 +1,7 @@
 ---
 title: UX for NGOs
 date: 2016-04-07 09:01:00 Z
+layout: page
 ---
 
 <a class="typeform-share link" href="https://niklasjordan.typeform.com/to/zM6L57" data-mode="2" target="_blank">Launch me!</a>
