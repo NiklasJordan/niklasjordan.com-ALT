@@ -2,9 +2,11 @@
 title: UX for NGOs
 date: 2016-04-07 09:01:00 Z
 Headline: User Experience Design can help you solve pressing, complex social challenges.
-Image: 
-ImageAlt: 
-ImageDesc: 
+Image: "/uploads/earth.f2c5ad19.gif"
+ImageAlt: UX can help Non-Profits solve complex challenges to improving the world
+  a little, or let's say, make it really better.
+ImageDesc: UX can help Non-Profits solve complex challenges to improving the world
+  a little, or let's say, make it really better.
 layout: landing
 ---
 
