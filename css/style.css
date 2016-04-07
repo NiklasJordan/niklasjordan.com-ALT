@@ -125,6 +125,19 @@ h3 + p, h2 + p {
   -webkit-margin-before: 0em;
 }
 
+article img {
+  width: 45rem;
+  margin-left: -3.5rem;
+  border-radius: 2px;
+}
+
+header img {
+  width: 45rem;
+  margin-left: -3.5rem;
+  border-bottom-right-radius: 2px;
+  border-bottom-left-radius: 2px;
+}
+
 p + ul {
   -webkit-margin-after: 0rem;
 }
