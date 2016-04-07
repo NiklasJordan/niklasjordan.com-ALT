@@ -141,6 +141,11 @@ article img {
   border-radius: 2px;
 }
 
+div.typeform-wrapper img {
+  width: auto !important;
+  margin: auto !important;
+}
+
 p + ul {
   -webkit-margin-after: 0rem;
 }
