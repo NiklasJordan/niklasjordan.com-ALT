@@ -125,9 +125,10 @@ h3 + p, h2 + p {
   -webkit-margin-before: 0em;
 }
 
-img {
+article img {
   width: 45rem;
   margin-left: -3.5rem;
+  border-radius: 2px;
 }
 
 header img {
@@ -135,10 +136,6 @@ header img {
   margin-left: -3.5rem;
   border-bottom-right-radius: 2px;
   border-bottom-left-radius: 2px;
-}
-
-article img {
-  border-radius: 2px;
 }
 
 div.typeform-wrapper img {
