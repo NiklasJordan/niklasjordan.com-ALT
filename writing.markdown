@@ -6,3 +6,5 @@ Headline: Writing
 layout: writing
 ---
 
+I write about opinions on technology focused products and it’s effect on our world.
+For new readers I write a few [onboarding-lines](#) for my blog.
