@@ -3,6 +3,8 @@ title: UX for NGOs
 date: 2016-04-07 09:01:00 Z
 Headline: User Experience Design can help you solve pressing, complex social challenges.
 Image: 
+ImageAlt: 
+ImageDesc: 
 layout: landing
 ---
 
