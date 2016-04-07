@@ -6,4 +6,3 @@ Headline: Writing
 layout: writing
 ---
 
-Lorem Ipsum
