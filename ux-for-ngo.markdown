@@ -3,7 +3,7 @@ title: UX for NGOs
 date: 2016-04-07 09:01:00 Z
 Headline: User Experience Design can help you solve pressing, complex social challenges.
 Image: 
-layout: page
+layout: landing
 ---
 
 UX for Good is an effort to push design as far as it can go: past forms, interactions and experiences to complex human systems, and beyond attractive, effective and elegant to deeply impactful.
