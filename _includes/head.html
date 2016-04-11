@@ -7,21 +7,21 @@
   {% if page.title %}
     {{ page.title }} &middot; by Niklas Jordan
   {% else %}
-    {{ page['Site-Name'] }}
+    {{ site['Site-Name'] }}
   {% endif %}
 </title>
-<meta name="description" content="{{ page['MetaDescription'] }}">
-<meta property="og:site_name" content="{{ page['Site-Name'] }}">
-<meta property="og:title" content="{{ page.title }} | {{ page['Site-Name'] }}">
+<meta name="description" content="{{ site['MetaDescription'] }}">
+<meta property="og:site_name" content="{{ site['Site-Name'] }}">
+<meta property="og:title" content="{{ page.title }} | {{ site['Site-Name'] }}">
 <meta name="og:description" content="">
 <meta property="og:email" content="hello@niklasjordan.com">
 <meta property="og:type" content="article">
 <meta property="og:url" content="http://www.niklasjordan.com">
 <meta property="og:image" content="_uploads/niklas-jordan.jpg">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:site" content="{{ page['Twitter'] }}">
-<meta name="twitter:creator" content="{{ page['Twitter'] }}">
-<meta name="twitter:title" content="{{ page.title }} | {{ page['Site-Name'] }}">
+<meta name="twitter:site" content="{{ site['Twitter'] }}">
+<meta name="twitter:creator" content="{{ site['Twitter'] }}">
+<meta name="twitter:title" content="{{ page.title }} | {{ site['Site-Name'] }}">
 <meta name="twitter:description" content="">
 <meta name="twitter:image" content="_uploads/niklas-jordan.jpg">
 <link rel="author" href="{{ page['GooglePlus'] }}">
