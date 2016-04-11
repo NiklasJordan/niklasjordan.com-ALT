@@ -24,7 +24,7 @@ layout: Default
       <h3>Writing</h3>
       <p style="margin-bottom: 0.7rem;">I write about opinions on technology focused products and it’s effect on our world.
         <ul>
-        {% for mypost in site.posts reversed %}
+        {% for mypost in site.posts limit:1 %}
           <li><a href="{{ mypost.url | prepend: site.baseurl }}">{{ mypost.title }}</a></li>
         {% endfor %}
         <li><a href="/writing">more...</a></li>
