@@ -1,7 +1,6 @@
 ---
 title: Boring Legal Stuff
 date: 2016-04-11 09:39:00 Z
-layout: default
 ---
 
 ### Information in accordance with Section 5 TMG
