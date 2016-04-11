@@ -20,4 +20,4 @@ Good: Register and Sign In
 - Help the user to apply a secure password
 - Limit incorrect log-in attempts
 
-A detailed explanation of all points can be found on [Jeff´s Blog](http://blog.codinghorror.com/).
+A detailed explanation of all points can be found on [Jeff´s Blog](http://blog.codinghorror.com/the-god-login/).
