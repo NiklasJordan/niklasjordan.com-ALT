@@ -1,0 +1,24 @@
+---
+layout: page
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% include head.html %}
+  </head>
+
+  <body>
+    {% include tag-manager.html %}
+
+    <header class="Header big" role="banner">
+      <p class="back"><a href="/">&#8592; Niklas Jordan</a></p>
+    </header>
+
+    <article role="main">
+      <h1>{{ page['Headline'] }}</h1>
+      {{ content }}
+    </article>
+
+  </body>
+</html>

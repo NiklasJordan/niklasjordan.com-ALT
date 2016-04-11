@@ -1,0 +1,28 @@
+---
+title: Niklas Jordan
+url: http://www.niklasjordan.com
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    permalink: "/writing/:title/"
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+permalink: pretty
+Site-Name: Niklas Jordan &middot; UX Professional
+MetaDescription: BlubBlubBlub
+Twitter: "@niklas_jordan"
+GooglePlus: https://plus.google.com/u/0/104211211117831167754

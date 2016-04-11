@@ -1,0 +1,38 @@
+---
+layout: Default
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% include head.html %}
+  </head>
+
+  <body>
+    {% include tag-manager.html %}
+
+    <header class="Header big" role="banner">
+      <figure>
+        <img src="{{ page['Image'] }}" alt="Niklas Jordan during a consultation">
+        <figcaption>Niklas Jordan – Certified Professional for Usability and User Experience (Original by <a href="http://www.tobias-kruse.com/">Tobias Kruse</a></figcaption>
+      </figure>
+    </header>
+
+    <article role="main">
+      <h1 class="intro">{{ page['Headline'] }}</h1>
+      {{ content }}
+      <h3>Writing</h3>
+      <p style="margin-bottom: 0.7rem;">I write about opinions on technology focused products and it’s effect on our world.
+        <ul>
+        {% for mypost in site.posts limit:4 %}
+          <li><a href="{{ mypost.url | prepend: site.baseurl }}">{{ mypost.title }}</a></li>
+        {% endfor %}
+        <li><a href="/writing">more...</a></li>
+        </ul>
+      </p>
+      <h2>Contact</h2>
+      <p>I ramble on <a href="https://twitter.com/niklas_jordan">Twitter</a>, show my work on <a href="https://dribbble.com/niklasjordan">dribbble</a>, share my code on <a href="https://github.com/NiklasJordan">Github</a>, network on <a href="https://www.linkedin.com/pub/niklas-jordan/22/b94/28b">LinkedIn</a>, and stream the soundtrack of my life on <a href="https://play.spotify.com/user/1116716844">Spotify</a>.</p>
+    </article>
+
+  </body>
+</html>
