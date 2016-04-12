@@ -79,6 +79,7 @@ p.back a {
   font-family: 'Raleway', sans-serif;
   color: #999d9e;
   background-image: none;
+  padding: 0 1rem;
 }
 
 mark {
