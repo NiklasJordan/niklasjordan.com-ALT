@@ -38,6 +38,8 @@ article {
 	display: -ms-flex;
 	display: -webkit-flex;
 	display: flex;
+  width: 45rem;
+  margin-left: -3.5rem;
 }
 
 .flexbox-container > div {
