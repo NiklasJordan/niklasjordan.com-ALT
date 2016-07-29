@@ -11,7 +11,7 @@ layout: Landingpage
   <body>
     {% include tag-manager.html %}
 
-    <header class="Header big" role="banner">
+    <header class="Header big" role="banner" aria-hidden="true">
       <figure>
         <img src="{{ page['Image'] }}" alt="{{ page['ImageAlt'] }}">
         <figcaption>{{ page['ImageDesc'] }}</figcaption>
@@ -28,7 +28,7 @@ layout: Landingpage
         </div>
       	<div>
           <h3>Column 2</h3>
-          Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
+          Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
         </div>
       </div>
     </article>
