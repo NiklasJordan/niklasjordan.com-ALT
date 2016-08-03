@@ -5,7 +5,8 @@ position: 0
 Headline: Ahoy! I am Niklas, a problem solver with passion for good user experience
   and technology.
 Image: "/uploads/niklas-jordan.jpg"
-Bildunterschrift: I love to support Nonprofits. *I help them improve there products and services to make the world a bit better.
+Bildunterschrift: I love to support Nonprofits. *I help them improve there products
+  and services to make the world a bit better.
 layout: default
 ---
 
