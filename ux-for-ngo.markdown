@@ -3,14 +3,11 @@ title: UX for NGOs
 date: 2016-04-07 09:01:00 Z
 Headline: User Experience Design can help you solve pressing, complex social challenges.
 Image: "/uploads/earth.f2c5ad19.gif"
-ImageAlt: UX can help Non-Profits solve complex challenges to improving the world
-  a little, or let's say, make it really better.
-ImageDesc: UX can help Non-Profits solve complex challenges to improving the world
-  a little, or let's say, make it really better.
+ImageDesc: UX can help you make the world a bit better.
 layout: landing
 ---
 
-UX for Good is an effort to push design as far as it can go: past forms, interactions and experiences to complex human systems, and beyond attractive, effective and elegant to deeply impactful.
+UX can help Non-Profits solve complex challenges to improving the world a little, or let's say, make it really better.
 
 ## Why UX is important for you?
 UX for Good is an effort to push design as far as it can go: past forms, interactions and experiences to complex human systems, and beyond attractive, effective and elegant to deeply impactful.
@@ -23,7 +20,4 @@ UX for Good is an effort to push design as far as it can go: past forms, interac
 - Analysis of your current UX
 - Expert Review of your Website or App
 - 20 min. Q&A - Skype-Call or Google Hangout with me
-- Get Free Access to my personal "UX for NGOs"-Space (there are all my relevant resources) 
-
-<a class="typeform-share link" href="https://niklasjordan.typeform.com/to/zM6L57" data-mode="2" target="_blank">Apply now!</a>
-<script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'share.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}})()</script>
+- Get Free Access to my personal "UX for NGOs"-Space (there are all my relevant resources)
