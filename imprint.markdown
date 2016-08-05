@@ -9,9 +9,7 @@ layout: page
 ### Information in accordance with Section 5 TMG
 
 Niklas Jordan
-
 Franz-Mehring-Str. 50
-
 19053 Schwerin
 
 ## Contact Information
