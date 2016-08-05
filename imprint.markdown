@@ -8,14 +8,14 @@ layout: page
 
 ### Information in accordance with Section 5 TMG
 
-Niklas Jordan\
-Franz-Mehring-Str. 50\
+Niklas Jordan
+Franz-Mehring-Str. 50
 19053 Schwerin
 
 ## Contact Information
 
-Telephone: 0173/3148663\
-E-Mail: [niklas.jordan@googlemail.com](mailto:niklas.jordan@googlemail.com)\
+Telephone: 0173/3148663
+E-Mail: [niklas.jordan@googlemail.com](mailto:niklas.jordan@googlemail.com)
 Internet address: [www.niklasjordan.com](www.niklasjordan.com)
 
 ## Disclaimer
