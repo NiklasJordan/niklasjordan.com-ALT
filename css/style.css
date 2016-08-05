@@ -150,14 +150,76 @@ a.btn.btn-primary:hover {
   box-shadow: 0 0 0 2px #1E90FF inset;
 }
 
-a.btn.btn-secondary {
+input[type=submit].btn.btn-secondary {
+  font-family: 'Raleway', sans-serif;
+  font-size: 1.1rem;
+  padding: 0.6rem;
+  border-radius: 2px;
+  text-shadow: none;
+  text-decoration: none;
+  background-image: none;
+  background: none;
+  color: #fff;
+  box-shadow: 0 0 0 2px #fff inset;
+  cursor: pointer;
+  width: 100%;
+}
+
+input[type=submit].btn.btn-secondary:hover {
+  background: #fff;
   color: #1E90FF;
-  box-shadow: 0 0 0 2px #1E90FF inset;
+}
+
+input[type=email].email {
+  font-family: 'Raleway', sans-serif;
+  font-size: 1.1rem;
+  border-radius: 2px;
+  padding: 0.6rem;
+  background: #fff;
+  color: #1E90FF;
+  box-shadow: 0 0 0 2px #fff inset;
+  box-sizing:border-box;
+  display: inline-block;
+  width: 70%;
+}
+
+span.headline {
+  font-size: 2rem;
+  font-family: 'Raleway', sans-serif;
+  color: #fff;
+  display: block;
+}
+
+span.subline {
+  font-size: 1.25rem;
+  line-height: 2rem;
+  font-family: Georgia, sans-serif;
+  color: #fff;
+  padding: 15px 25px;
+  display: block;
 }
 
 a.btn.btn-secondary:hover {
   color: #fff;
   background: #1E90FF;
+}
+
+#mc_embed_signup{
+  clear:left;
+  font:14px Helvetica,Arial,sans-serif;
+  width:100%;
+  background: #1E90FF;
+  border-radius: 2px;
+  text-align: center;
+  padding: 1.5rem;
+}
+
+#mc_embed_signup .mc-field-group {
+  display: inline-block;
+}
+
+#mc_embed_signup .clear {
+  display: inline-block;
 }
 
 p.back a {
@@ -251,6 +313,11 @@ li:before {
     position: absolute;
     left: -0.75em;
     content: "-";
+}
+
+p.promobox {
+  background: #1E90FF;
+  border-radius: 2px;
 }
 
 @media screen and (max-width: 45rem) {
