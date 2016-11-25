@@ -15,7 +15,7 @@ The user experience directly affects how well or badly your page works for the u
 
 ### Good vs. bad UX
 Good UX is something that often remains undetected. It gives the user a sense of simplicity and elegance when using the site. It exists behind the scenes - in small details, useful functions and supportive services.
-But as soon as something does not work as expected, we are annoyed. This frustration remains in our memory. And: We link our anger with the organisation ...
+But as soon as something does not work as expected, we are annoyed. This frustration remains in our memory. And: We link our anger with your organisation ...
 
 ## What is a UX Review
 In a User Experience Check, we evaluate the usability of your website or your online store regarding common usability principles and best practices.
