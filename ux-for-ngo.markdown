@@ -5,7 +5,7 @@ Headline: User Experience Design can help you solve pressing, complex social cha
 Image: "/uploads/earth.f2c5ad19.gif"
 ImageDesc: UX can help you make the world a bit better.
 layout: landing
-index: false
+NoIndex: true
 ---
 
 UX can help Non-Profits solve complex challenges to improving the world a little, or let's say, make it really better.

@@ -2,7 +2,7 @@
 title: Writing
 date: 2016-04-01 14:08:00 Z
 layout: writing
-index: false
+NoIndex: true
 ---
 
 # Writing
