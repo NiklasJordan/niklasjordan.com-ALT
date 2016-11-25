@@ -32,3 +32,5 @@ And even more:
 <li>20 min. Q&A - Skype-Call or Google Hangout with me</li>
 <li>Get Free Access to my personal "UX for Nonprofit"-Space (there are all my relevant resources)</li>
 </ul>
+
+<a href="#" target="_blank">Get a <i>free</i> UX Review</a>
