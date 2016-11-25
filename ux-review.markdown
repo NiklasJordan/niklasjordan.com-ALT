@@ -20,6 +20,8 @@ But as soon as something does not work as expected, we are annoyed. This frustra
 ## What is a UX Review
 In a User Experience Check, we evaluate the usability of your website or your online store regarding common usability principles and best practices.
 
+I will be looking for anything that stands out to us as being a problem with regard to the user experience, appearance, usability and accessibility.
+
 ### What do you get from me?
 The deliverable will be a document with snapshots and notes describing specific product areas that could be improved from a UX standpoint.
 
