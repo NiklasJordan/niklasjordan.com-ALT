@@ -33,4 +33,4 @@ And even more:
 <li>Get Free Access to my personal "UX for Nonprofit"-Space (there are all my relevant resources)</li>
 </ul>
 
-<a href="#" target="_blank">Get a <i>free</i> UX Review</a>
+<a href="#" target="_blank" class="btn btn-primary">Get a <i>free</i> UX Review</a>
