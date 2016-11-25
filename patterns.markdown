@@ -2,7 +2,7 @@
 title: About
 date: 2016-04-11 09:39:00 Z
 layout: page
-NoIndex: true
+noindex: true
 ---
 
 # About me
