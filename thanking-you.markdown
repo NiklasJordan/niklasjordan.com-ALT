@@ -1,7 +1,7 @@
 ---
 title: Thank you
 date: 2016-08-09 16:02:00 Z
-NoIndex: true
+noindex: true
 ---
 
 # Thanks!
