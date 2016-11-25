@@ -34,6 +34,10 @@
 <link rel="author" href="{{ page['GooglePlus'] }}">
 <script src="https://cdn.optimizely.com/js/3269590075.js"></script>
 
+{% if page.index == "no" %}
+<meta name="robots" content="noindex, follow" />
+{% endif %}
+
 <script type="text/javascript">
 	var $mcGoal = {'settings':{'uuid':'99b60ca7c359db03860b8e54b','dc':'us11'}};
 	(function() {
