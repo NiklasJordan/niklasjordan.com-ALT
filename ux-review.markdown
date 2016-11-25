@@ -1,9 +1,6 @@
 ---
 title: Get a free UX review
 date: 2016-04-07 09:01:00 Z
-Headline: User Experience Design can help you solve pressing, complex social challenges.
-Image: "/uploads/earth.f2c5ad19.gif"
-ImageDesc: UX can help you make the world a bit better.
 noindex: true
 layout: landing
 ---
@@ -22,8 +19,12 @@ But as soon as something does not work as expected, we are annoyed. This frustra
 In a User Experience Check, we evaluate the usability of your website or your online store regarding common usability principles and best practices.
 
 ### What do you get from me?
-- Starting point for your UX strategy
-- Analysis of your current UX
-- Expert Review of your Website or App
-- 20 min. Q&A - Skype-Call or Google Hangout with me
-- Get Free Access to my personal "UX for NGOs"-Space (there are all my relevant resources)
+The deliverable will be a document with snapshots and notes describing specific product areas that could be improved from a UX standpoint.
+
+And even more:
+<ul class="hug">
+<li>Analysis of your current UX</li>
+<li>Expert Review of your Website or App</li>
+<li>20 min. Q&A - Skype-Call or Google Hangout with me</li>
+<li>Get Free Access to my personal "UX for Nonprofit"-Space (there are all my relevant resources)</li>
+</ul>
