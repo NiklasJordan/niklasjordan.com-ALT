@@ -29,7 +29,7 @@ I will be looking for anything that stands out to us as being a problem with reg
 ### What do you get from me?
 <p class="half">The deliverable will be a document with snapshots and notes describing specific product areas that could be improved from a UX standpoint.</p>
 
-> And even more:
+<blockquote><p>And even more:
 <ul class="hug">
 <li>Analysis of your current UX</li>
 <li>Expert Review of your Website or App</li>
@@ -37,7 +37,8 @@ I will be looking for anything that stands out to us as being a problem with reg
 <li>Get free Access to my personal "UX for Nonprofit"-Space (there are all my relevant resources)</li>
 <li>You get exclusive access to a secret slack channel "UX for NGOs"</li>
 <li>I help you to find the best people to fix your problems</li>
-</ul>
+</ul></p>
+</blockquote>
 
 <a href="#" target="_blank" class="btn btn-primary">Apply for a <i>free</i> UX Review</a>
 
