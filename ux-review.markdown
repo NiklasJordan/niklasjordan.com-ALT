@@ -17,12 +17,12 @@ The user experience directly affects how well or badly your page works for the u
 <p class="half">Good UX is something that often remains undetected. It gives the user a sense of simplicity and elegance when using the site. It exists behind the scenes - in small details, useful functions and supportive services.
 But as soon as something does not work as expected, we are annoyed. This frustration remains in our memory. And: We link our anger with your organisation ...</p>
 
-<a href="#" target="_blank" class="btn btn-primary">You want better UX? Lets go!</a>
-
 ### Why is UX important for Nonprofits?
 Matthew Martindale from GreatPositive [says](http://www.drewlepp.com/blog/how-non-profits-can-use-ux-to-create-impact/):
 
 > Good UX is a lot of things. But most importantly, it respects a person’s time and establishes trust. And, in the context of giving back — a person’s generosity. People contribute more when they can feel the problem and then the result of contribution.
+
+<a href="#" target="_blank" class="btn btn-primary">You want better UX? Lets go!</a>
 
 ## What is a UX Review
 In a User Experience Check, we evaluate the usability of your website or your online store regarding common usability principles and best practices.
