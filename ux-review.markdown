@@ -43,6 +43,9 @@ But, there are some ground rules:
 <ul class="hug">
 <li>You represent a real organization</li>
 <li>You are not an agency or an UX freelancer</li>
-<li>You don't use my free offer to save the money for a commercial offer</li>
-<li>You don't use my free offer to save the money for a commercial offer</li>
+<li>You don't use my free offer to save the money for a commercial offer.</li>
+<li>You are not a racist or gun-lover</li>
+<li>You are not evil :wink:</li>
 </ul>
+
+Last but not least: **Be fair.** I can only offer the free UX review as long as I'm not exploited. If you can pay for this service: [do it](http://www.niklasjordan.com/contact.html)!
