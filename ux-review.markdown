@@ -18,7 +18,7 @@ The user experience directly affects how well or badly your page works for the u
 But as soon as something does not work as expected, we are annoyed. This frustration remains in our memory. And: We link our anger with your organisation ...</p>
 
 ## What is a UX Review
-<p class="half">In a User Experience Check, we evaluate the usability of your website or your online store regarding common usability principles and best practices.</p>
+In a User Experience Check, we evaluate the usability of your website or your online store regarding common usability principles and best practices.
 
 I will be looking for anything that stands out to us as being a problem with regard to the user experience, appearance, usability and accessibility.
 
