@@ -23,7 +23,7 @@ But as soon as something does not work as expected, we are annoyed. This frustra
 I will be looking for anything that stands out to us as being a problem with regard to the user experience, appearance, usability and accessibility.
 
 ### What do you get from me?
-The deliverable will be a document with snapshots and notes describing specific product areas that could be improved from a UX standpoint.
+<p class="half">The deliverable will be a document with snapshots and notes describing specific product areas that could be improved from a UX standpoint.</p>
 
 And even more:
 <ul class="hug">
