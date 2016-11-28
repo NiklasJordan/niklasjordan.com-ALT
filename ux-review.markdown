@@ -14,8 +14,8 @@ User Experience (UX) is made up of all the experiences and impressions a user ha
 The user experience directly affects how well or badly your page works for the user. Does he find what he is looking for? Does he have fun? Is he annoyed? Is it easy to donate something? All these experiences are also linked to your organisation.
 
 ### Good vs. bad UX
-Good UX is something that often remains undetected. It gives the user a sense of simplicity and elegance when using the site. It exists behind the scenes - in small details, useful functions and supportive services.
-But as soon as something does not work as expected, we are annoyed. This frustration remains in our memory. And: We link our anger with your organisation ...
+<p class="half">Good UX is something that often remains undetected. It gives the user a sense of simplicity and elegance when using the site. It exists behind the scenes - in small details, useful functions and supportive services.
+But as soon as something does not work as expected, we are annoyed. This frustration remains in our memory. And: We link our anger with your organisation ...</p>
 
 ## What is a UX Review
 In a User Experience Check, we evaluate the usability of your website or your online store regarding common usability principles and best practices.
