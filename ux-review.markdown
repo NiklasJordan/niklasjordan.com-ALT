@@ -19,6 +19,10 @@ But as soon as something does not work as expected, we are annoyed. This frustra
 
 <a href="#" target="_blank" class="btn btn-primary">You want better UX? Lets go!</a>
 
+### Why is UX important for Nonprofits?
+Matthew Martindale from GreatPositive says:
+> Good UX is a lot of things. But most importantly, it respects a person’s time and establishes trust. And, in the context of giving back — a person’s generosity. People contribute more when they can feel the problem and then the result of contribution.
+
 ## What is a UX Review
 In a User Experience Check, we evaluate the usability of your website or your online store regarding common usability principles and best practices.
 
