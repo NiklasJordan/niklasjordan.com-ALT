@@ -41,7 +41,7 @@ And even more:
 
 But, there are some ground rules:
 <ul class="hug">
-<li>You represent a real company</li>
+<li>You represent a real organization</li>
 <li>You are actively seeking a UX partner</li>
 <li>This will be a single-cycle activity</li>
 </ul>
