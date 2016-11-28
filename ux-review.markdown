@@ -18,7 +18,7 @@ The user experience directly affects how well or badly your page works for the u
 But as soon as something does not work as expected, we are annoyed. This frustration remains in our memory. And: We link our anger with your organisation ...</p>
 
 ### Why is UX important for Nonprofits?
-Matthew Martindale from GreatPositive [says](http://www.drewlepp.com/blog/how-non-profits-can-use-ux-to-create-impact/):
+<p class="half">Matthew Martindale from GreatPositive <a href="http://www.drewlepp.com/blog/how-non-profits-can-use-ux-to-create-impact/" target="_blank">says</a>:</p>
 
 > Good UX is a lot of things. But most importantly, it respects a person’s time and establishes trust. And, in the context of giving back — a person’s generosity. People contribute more when they can feel the problem and then the result of contribution.
 
