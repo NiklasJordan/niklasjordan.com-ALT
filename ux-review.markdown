@@ -37,7 +37,7 @@ And even more:
 <a href="#" target="_blank" class="btn btn-primary">Apply for a <i>free</i> UX Review</a>
 
 ### For *free*? Are you drunk? :confused:
-<p class="half">Of course **not**. Everyone should help with what he can do well. And my talent is to provide the best services and products for users. The talent of many organisations is to find solutions and master challenges that struggle for a better life, equality or more consideration for nature. Unfortunately, the digital platforms are not used optimally. To change that, I offer my help.</p>
+<p class="half">Of course <strong>not</strong>. Everyone should help with what he can do well. And my talent is to provide the best services and products for users. The talent of many organisations is to find solutions and master challenges that struggle for a better life, equality or more consideration for nature. Unfortunately, the digital platforms are not used optimally. To change that, I offer my help.</p>
 
 But, there are some ground rules:
 <ul class="hug">
