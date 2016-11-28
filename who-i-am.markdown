@@ -17,12 +17,12 @@ By night I am a lot outside in nature, go climbing or engage me in the same way.
 ### User Experience & Usability Engineering
 <div class="container">
     <div class="spalte abstand">
-      <p>It's always critical to look at the whole context of an interaction, from what brought the user to this place, to where they want to go once they are finished. Creating that complete experience is central to my work as a User Experience Architect.</p>
+      <p class="half">It's always critical to look at the whole context of an interaction, from what brought the user to this place, to where they want to go once they are finished. Creating that complete experience is central to my work as a User Experience Architect.</p>
       <p>I design and moderate usability studies and conduct usability expert reviews to evaluate design artifacts. With experience in scientific research methodology and statistical analysis, I can apply various levels of rigor to projects as needed.</p>
       <p>That mean: I envision and design the experience for the user from start to finish of an interaction with a product or service.</p>
     </div>
     <div class="spalte">
-      <p><strong>What can I do for you:</strong></p>
+      <p class="half"><strong>What can I do for you:</strong></p>
       <ul class="hug">
         <li>Consulting and give lessons</li>
         <li>Task Analysis</li>
@@ -38,11 +38,11 @@ By night I am a lot outside in nature, go climbing or engage me in the same way.
 ### Conversion Optimization
 <div class="container">
     <div class="spalte abstand">
-      <p>Conversion Rate Optimisation (CRO) is the act of making improvements to your website to increase your online leads, whether that be increasing prospects or donation.</p>
+      <p class="half">Conversion Rate Optimisation (CRO) is the act of making improvements to your website to increase your online leads, whether that be increasing prospects or donation.</p>
       <p>The process of conversion rate optimisation is about subtly guiding users towards the end goal. To do this, I will analyse where improvements can be made, test different tactics to find which works best, and implement the change for a higher conversion rate and stronger ROI.</p>
     </div>
     <div class="spalte">
-      <p><strong>What can I do for you:</strong></p>
+      <p class="half"><strong>What can I do for you:</strong></p>
       <ul class="hug">
         <li>User Journey & Analysis</li>
         <li>Find low hanging fruits</li>
