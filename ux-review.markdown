@@ -42,6 +42,7 @@ And even more:
 But, there are some ground rules:
 <ul class="hug">
 <li>You represent a real organization</li>
-<li>You are actively seeking a UX partner</li>
-<li>This will be a single-cycle activity</li>
+<li>You are not an agency or an UX freelancer</li>
+<li>You don't use my free offer to save the money for a commercial offer</li>
+<li>You don't use my free offer to save the money for a commercial offer</li>
 </ul>
