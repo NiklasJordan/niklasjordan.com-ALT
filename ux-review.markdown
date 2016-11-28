@@ -17,10 +17,14 @@ The user experience directly affects how well or badly your page works for the u
 <p class="half">Good UX is something that often remains undetected. It gives the user a sense of simplicity and elegance when using the site. It exists behind the scenes - in small details, useful functions and supportive services.
 But as soon as something does not work as expected, we are annoyed. This frustration remains in our memory. And: We link our anger with your organisation ...</p>
 
+<a href="#" target="_blank" class="btn btn-primary">You want better UX? Lets go!</a>
+
 ## What is a UX Review
 In a User Experience Check, we evaluate the usability of your website or your online store regarding common usability principles and best practices.
 
 I will be looking for anything that stands out to us as being a problem with regard to the user experience, appearance, usability and accessibility.
+
+<a href="#" target="_blank" class="btn btn-primary">You want one? Lets go!</a>
 
 ### What do you get from me?
 <p class="half">The deliverable will be a document with snapshots and notes describing specific product areas that could be improved from a UX standpoint.</p>
@@ -49,3 +53,5 @@ But, there are some ground rules:
 </ul>
 
 Last but not least: **Be fair.** I can only offer the free UX review as long as I'm not exploited. If you can pay for this service: [do it](http://www.niklasjordan.com/contact.html)!
+
+<a href="#" target="_blank" class="btn btn-primary">Apply for a <i>free</i> UX Review</a>
