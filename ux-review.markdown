@@ -34,7 +34,8 @@ And even more:
 <li>Analysis of your current UX</li>
 <li>Expert Review of your Website or App</li>
 <li>20 min. Q&A - Skype-Call or Google Hangout with me</li>
-<li>Get Free Access to my personal "UX for Nonprofit"-Space (there are all my relevant resources)</li>
+<li>Get free Access to my personal "UX for Nonprofit"-Space (there are all my relevant resources)</li>
+<li>You get exclusive access to a secret slack channel "UX for NGOs"</li>
 <li>I help you to find the best people to fix your problems</li>
 </ul>
 
