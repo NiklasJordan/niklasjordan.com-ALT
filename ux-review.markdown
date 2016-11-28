@@ -29,7 +29,7 @@ I will be looking for anything that stands out to us as being a problem with reg
 ### What do you get from me?
 <p class="half">The deliverable will be a document with snapshots and notes describing specific product areas that could be improved from a UX standpoint.</p>
 
-> And even more:
+And even more:
 <ul class="hug">
 <li>Analysis of your current UX</li>
 <li>Expert Review of your Website or App</li>
