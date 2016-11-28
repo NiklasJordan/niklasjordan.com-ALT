@@ -37,11 +37,15 @@ And even more:
 <a href="#" target="_blank" class="btn btn-primary">Apply for a <i>free</i> UX Review</a>
 
 ### For *free*? Are you drunk? :confused:
-<p class="half">Of course **not**. Everyone should help with what he can do well. And my talent is to provide the best services and products for users. The talent of many organisations is to find solutions and master challenges that struggle for a better life, equality or more consideration for nature. Unfortunately, the digital platforms are not used optimally. To change that, I offer my help.</p>
+<p class="half">Of course <strong>not</strong>. Everyone should help with what he can do well. And my talent is to provide the best services and products for users. The talent of many organisations is to find solutions and master challenges that struggle for a better life, equality or more consideration for nature. Unfortunately, the digital platforms are not used optimally. To change that, I offer my help.</p>
 
 But, there are some ground rules:
 <ul class="hug">
-<li>You represent a real company</li>
-<li>You are actively seeking a UX partner</li>
-<li>This will be a single-cycle activity</li>
+<li>You represent a real organization</li>
+<li>You are not an agency or an UX freelancer</li>
+<li>You don't use my free offer to save the money for a commercial offer.</li>
+<li>You are not a racist or gun-lover</li>
+<li>You are not evil :wink:</li>
 </ul>
+
+Last but not least: **Be fair.** I can only offer the free UX review as long as I'm not exploited. If you can pay for this service: [do it](http://www.niklasjordan.com/contact.html)!
