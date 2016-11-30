@@ -6,7 +6,7 @@ layout: default
 
 # Ahoy!
 
-<p class="lead">I am Niklas, a problem solver for Nonprofits with passion for good user experience and technology.</p>
+<p class="lead">I am Niklas, a problem solver for NGOs with passion for good user experience and technology.</p>
 
 I help *good* organizations <mark>create products and services people need (and love) that have a good impact on their mission and the world</mark>. I do this through smart research, experience and psychology.
 I live in Schwerin, in the Northern Germany. It’s pretty nice here, I think you’d like it.
