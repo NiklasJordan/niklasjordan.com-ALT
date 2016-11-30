@@ -61,6 +61,6 @@ But, there are some ground rules:
 Last but not least: **Be fair.** I can only offer the free UX review as long as I'm not exploited. If you can pay for this service: [do it](http://www.niklasjordan.com/contact.html)!
 
 ### Okay, nice. But why don't you take money for your work?
-:smirk: Yep, I think everybody should give something more than he takes. In addition, I do not earn my money as a freelancer because I have a contract. So I'm simply not relying on the money of such jobs :wink: However, one must also honestly say that this UX review would not have the same size as a paid one. Usually, average UX Review needs 5-10 days. I invest for the free review one day.
+<p class="half">:smirk: Yep, I think everybody should give something more than he takes. In addition, I do not earn my money as a freelancer because I have a contract. So I'm simply not relying on the money of such jobs :wink: However, one must also honestly say that this UX review would not have the same size as a paid one. Usually, average UX Review needs 5-10 days. I invest for the free review one day.</p>
 
 <a href="#" target="_blank" class="btn btn-primary">Apply for a <i>free</i> UX Review</a>
