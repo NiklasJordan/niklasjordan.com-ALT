@@ -7,7 +7,7 @@ layout: landing
 
 # Get a free UX review
 
-<p class="lead">UX can help Non-Profits solve complex challenges to improving the world a little, or let's say, make it really better.</p>
+<p class="lead">UX can help NGOs solve complex challenges to improving the world a little, or let's say, make it really better.</p>
 
 ## What is User Experience?
 User Experience (UX) is made up of all the experiences and impressions a user has on your website - whether positive or negative.
