@@ -15,4 +15,4 @@ Check out the [services I offer](/who-i-am.html), to learn how I can help you to
 
 **I’m in it for good:**  My focus is on delivering projects for organizations or companies that strive to do good work. Green, animals, education, humanitarian, social, or ethical.
 
-<a href="#" target="_blank" class="btn btn-primary">Apply for a <i>free</i> UX Review</a>
+<a href="/ux-review.html" target="_blank" class="btn btn-primary">Apply for a <i>free</i> UX Review</a>
