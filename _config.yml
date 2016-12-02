@@ -29,6 +29,8 @@ GooglePlus: https://plus.google.com/u/0/104211211117831167754
 navigation:
 - title: Who I am & what I do
   url: "/who-i-am.html"
+- title: UX Review
+  url: "/ux-review.html"
 - title: Contact
   url: "/contact.html"
 gems:
