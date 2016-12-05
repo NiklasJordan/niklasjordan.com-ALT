@@ -21,12 +21,13 @@ layout: writing
       {% assign fdate = mypost.date | date: '%b %Y' %}
       {% if cur_date != fdate %}
         {% assign cur_date = fdate %}
-        <h3>{{ mypost.date | date: '%B, %Y' }}</h3>
+        <h2>{{ mypost.date | date: '%B, %Y' }}</h2>
       {% endif %}
       <ul class="half">
         <li>
           <a href="{{ mypost.url | prepend: site.baseurl }}">{{ mypost.title }}</a>
-          <span class="post-meta">{{ mypost.date | date: "%b %-d, %Y" }}</span>
+          <!-- <span class="post-meta">{{ mypost.date | date: "%b %-d, %Y" }}</span> -->
+          <span class="label">{{ mypost.categories }}</span>
         </li>
       </ul>
       {% endfor %}

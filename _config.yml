@@ -31,6 +31,8 @@ navigation:
   url: "/who-i-am.html"
 - title: UX Review
   url: "/ux-review.html"
+- title: Writing
+  url: "/writing.html"
 - title: Contact
   url: "/contact.html"
 gems:

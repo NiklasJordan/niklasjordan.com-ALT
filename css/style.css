@@ -198,12 +198,25 @@ a.btn.btn-primary {
   color: #fff;
   background: #1E90FF;
   padding: 5px 10px;
+  border-radius: 2px;
+  box-shadow: inset 0 -1px 0 rgba(0,0,0,0.12);
 }
 
 a.btn.btn-primary:hover {
   color: #1E90FF;
   background: none;
   box-shadow: 0 0 0 2px #1E90FF inset;
+}
+
+span.label {
+  display: inline-block;
+  padding: 3px 4px;
+  font-size: 12px;
+  line-height: 1;
+  border-radius: 2px;
+  box-shadow: inset 0 -1px 0 rgba(0,0,0,0.12);
+  vertical-align: 5px;
+  background-color: #ffefc6;
 }
 
 /* Navigation & Footer */
