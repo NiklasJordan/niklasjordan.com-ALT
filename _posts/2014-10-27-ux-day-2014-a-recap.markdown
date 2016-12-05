@@ -1,6 +1,8 @@
 ---
 title: UX Day 2014 – A recap
 date: 2014-10-27 07:55:00 Z
+categories:
+- article
 ---
 
 The alarm clock rang surprisingly late: 22:00 pm the day before the conference. The early bird catches the user.
