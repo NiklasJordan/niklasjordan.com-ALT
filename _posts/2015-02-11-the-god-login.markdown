@@ -1,6 +1,8 @@
 ---
 title: The God Login
 date: 2015-02-11 08:08:00 Z
+tags:
+- summary
 ---
 
 Jeff Atwood, co-founder of [StackExchange](http://stackexchange.com/), is working on a new project: the platform [Discourse](http://www.discourse.org/). A special challenge and priority for him was the login page. He asked himself how looks a login page, if God would make it. With other words: the perfect login page.
