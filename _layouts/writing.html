@@ -17,6 +17,7 @@ layout: writing
 
     <article role="main">
       {{ content }}
+      <!-- 
       {% for mypost in site.posts %}
       {% assign fdate = mypost.date | date: '%b %Y' %}
       {% if cur_date != fdate %}
@@ -26,11 +27,16 @@ layout: writing
       <ul class="half">
         <li>
           <a href="{{ mypost.url | prepend: site.baseurl }}">{{ mypost.title }}</a>
-          <!-- <span class="post-meta">{{ mypost.date | date: "%b %-d, %Y" }}</span> -->
+          <span class="post-meta">{{ mypost.date | date: "%b %-d, %Y" }}</span>
           <span class="label">{{ mypost.categories }}</span>
         </li>
       </ul>
+      {% endfor %} -->
+      <ul class="half">
+      {% for mypost in site.posts %}
+        <li><a href="{{ mypost.url | prepend: site.baseurl }}">{{ mypost.title }}</a> <span class="label">{{ mypost.categories }}</span></li>
       {% endfor %}
+      </ul>
     </article>
 
   </div>
