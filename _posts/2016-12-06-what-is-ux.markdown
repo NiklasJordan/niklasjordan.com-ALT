@@ -1,5 +1,5 @@
 ---
-title: What is UX? My definition...
+title: What is UX? And why it is important for NGOs?
 date: 2016-12-06 13:31:00 Z
 published: false
 categories:
@@ -24,7 +24,7 @@ What can we do from this definition?
 ### What can interactions be?
 There are a lot of interactions an NGO can have. For example a little scenario: 
 
-> Pete is looking for a patient association for chronic diseases in the United States. He needs someone who helps him to understand the doctors' letters, provides the right choices and if necessary legal counsel. Pete uses Google to search and find a few pages that sound interesting. He clicks on one of it and looking over the site, looking for the organisations mission, benefits of a membership and reviews about the organisation. There are a few open questions Pete have and he uses the contact form to get answers from the organisation. A nice person answering him all questions and help him to make a decision. After all, Pete make a decision and want to be a member of this patient association. However, he uses the form on the website to get the membership.
+> Pete is looking for a patient association for chronic diseases in the United States. He needs someone who helps him to understand the doctors' letters, provides the right choices and if necessary legal counsel. Pete uses Google to search and find a few pages that sound interesting. He clicks on one of it and looking over the site, looking for the organisation's mission, benefits of a membership and reviews about the organisation. There are a few open questions Pete have and he uses the contact form to get answers from the organisation. A nice person answering him all questions and help him to make a decision. After all, Pete makes a decision and want to be a member of this patient association. However, he uses the form on the website to get the membership.
 
 This is a small and very simple scenario related to a "new membership" scenario for NGOs. Here are at least 10 interactions with it. And these interactions you should be designed to provide the best experience with your organisation. In this case, better UX helps you to get more memberships.
 
@@ -33,5 +33,15 @@ But this is only one of many scenarios. There are a lot more scenarios an NGO or
 - Someone want to make a Donor for a specific topic
 - Someone is looking for an expert
 - Volunteers needs support for a demonstration
-- You make an information booth on a festival
+- You make an information booth at a festival
 - *there are a lot more*
+
+You see, UX is related to everything. Per Axbom has written a [great article](http://axbom.com/ux-definition/) about that. Here's an extract:
+- UX is related to **design** because it is about problem-solving. We must understand why we are building something and then use design efforts to explore and test our options. This includes exploring aesthetic, functional, economic and socio-political dimensions to accomplish our goals.
+- UX is related to **business** because it tries to understand what aspects of user needs must be accommodated for a business to progress.
+- UX is related to **scientific** research because we do the research and make up hypotheses about what will work, which we then experiment with.
+- UX is related to **technology** because, you know, everything is. And I don’t necessarily mean digital, I mean simply using tools to advance performance.
+- UX is related to **sociology** and **anthropology** in that it studies various aspects of humans within societies.
+- UX is related to **psychology** because we want to understand the mechanics of behaviour and for example how habits and memories are formed.
+- UX is related to **copywriting** because content can make or break a solution and it is a great example of a cost-efficient way of improving products.
+- UX is related to **management** because we need to coordinate all the efforts in an organisation for the UX initiatives to work as intended with regards to variables such as resources, training and investments.
