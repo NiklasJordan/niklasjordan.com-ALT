@@ -1,6 +1,8 @@
 ---
 title: What is UX? My definition...
 date: 2016-12-06 13:31:00 Z
+categories:
+- article
 ---
 
 If you ask a group of UX designers, “What is User Experience?” I guarantee they will all give you different answers. Here you will find a small [list of different UX definitions](http://www.allaboutux.org/ux-definitions). In fact, the overwhelming growth and popularity of the term UX means it has come to be different things for different people.
