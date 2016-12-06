@@ -1,10 +1,10 @@
 ---
 title: Writing
 date: 2016-04-01 14:08:00 Z
-layout: writing
 noindex: true
+layout: writing
 ---
 
 # Writing
 
-I write about opinions on technology focused products and it’s effect on our world.
+I write about opinions and ideas on UX and technology, and it’s effect on our world. Here are my latest thoughts:
