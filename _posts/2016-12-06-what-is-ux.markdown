@@ -14,7 +14,7 @@ My understanding of UX equals to [DIN EN ISO 9241, 210](https://en.wikipedia.org
 
 Easier, this standard says:
 
-	"User experience encompasses all aspects of the end-user's interaction with the company, its services, and its products." – Don Norman & Jakob Nielsen, [Source](https://www.nngroup.com/articles/definition-user-experience/)
+> "User experience encompasses all aspects of the end-user's interaction with the company, its services, and its products." – Don Norman & Jakob Nielsen, [Source](https://www.nngroup.com/articles/definition-user-experience/)
 
 What can we do from this definition?
 - UX describe *all* aspects of interaction with a brand, organization, service, product, etc.
@@ -23,10 +23,7 @@ What can we do from this definition?
 ### What can interactions be?
 There are a lot of interactions a NGO can have. For example a little scenario: 
 
-	Pete is looking for a patient association for chronic diseases in the United States. He needs someone who helps him to understand the doctors' letters, provides the right choices and if necessary legal counsel.  
-	Pete uses Google to search and find a few pages that sounds interesting. He click on one of it and looking over the site, looking for the organizations mission, benefits of a membership and reviews about the organization.
-	There are a few open questions Pete have and he use the contact form to get answers from the organization. A nice person answer him all questions and help him to make a decision.
-	After all Pete make a decision and want to be a member of this patient association. However, he use the form on the website to get the membership.
+> Pete is looking for a patient association for chronic diseases in the United States. He needs someone who helps him to understand the doctors' letters, provides the right choices and if necessary legal counsel. Pete uses Google to search and find a few pages that sounds interesting. He click on one of it and looking over the site, looking for the organizations mission, benefits of a membership and reviews about the organization. There are a few open questions Pete have and he use the contact form to get answers from the organization. A nice person answer him all questions and help him to make a decision. After all Pete make a decision and want to be a member of this patient association. However, he use the form on the website to get the membership.
 
 This is a small and very simple scenario related on a "new membership" scenario for NGOs. There are 12 interactions in it. And these interactions you should be design to provide the best experience with your organization. In this case, better UX help you to get more memberships.
 
