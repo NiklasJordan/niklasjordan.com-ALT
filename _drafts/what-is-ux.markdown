@@ -1,0 +1,37 @@
+---
+title: What is UX? My definition...
+date: 2016-12-06 13:31:00 Z
+---
+
+If you ask a group of UX designers, “What is User Experience?” I guarantee they will all give you different answers. Here you will find a small [list of different UX definitions](http://www.allaboutux.org/ux-definitions). In fact, the overwhelming growth and popularity of the term UX means it has come to be different things for different people.
+
+Firstly: UX is **not** graphic design. UX is **not** UI. And UX is **not** limited on websites or apps.
+
+## The definition of UX
+My understanding of UX equals to [DIN EN ISO 9241, 210](https://en.wikipedia.org/wiki/ISO_9241) norm. Thus, the user experience describe „A person's perceptions and responses that result from the use and/or anticipated use of a product, system or service.”
+
+Easier, this standard says:
+
+	"User experience encompasses all aspects of the end-user's interaction with the company, its services, and its products." – Don Norman & Jakob Nielsen, [Source](https://www.nngroup.com/articles/definition-user-experience/)
+
+What can we do from this definition?
+- UX describe *all* aspects of interaction with a brand, organization, service, product, etc.
+- Websites and apps are only a small part in this interaction flow of a user/customer/volunteer/donor.
+
+### What can interactions be?
+There are a lot of interactions a NGO can have. For example a little scenario: 
+
+	Pete is looking for a patient association for chronic diseases in the United States. He needs someone who helps him to understand the doctors' letters, provides the right choices and if necessary legal counsel.  
+	Pete uses Google to search and find a few pages that sounds interesting. He click on one of it and looking over the site, looking for the organizations mission, benefits of a membership and reviews about the organization.
+	There are a few open questions Pete have and he use the contact form to get answers from the organization. A nice person answer him all questions and help him to make a decision.
+	After all Pete make a decision and want to be a member of this patient association. However, he use the form on the website to get the membership.
+
+This is a small and very simple scenario related on a "new membership" scenario for NGOs. There are 12 interactions in it. And these interactions you should be design to provide the best experience with your organization. In this case, better UX help you to get more memberships.
+
+But this is only one of many scenarios. There are a lot more scenarios a NGO or non-profit should provide good UX:
+- Someone is looking for a volunteer job
+- Someone want to make a Donor for a specific topic
+- Someone is looking for an expert
+- Volunteers needs support for a demonstration
+- You make a information booth on a festival
+- *there are a lot more*
