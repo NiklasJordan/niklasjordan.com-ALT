@@ -16,8 +16,7 @@ An example shows this effect: the bad feelings from losing $20 are stronger than
 
 ## Key Takeaways 
 - Why are humans attuned to the negative?
-        
-        - Bad news or negative traits signal danger
+	- Bad news or negative traits signal danger
 	- From an evolutionary perspective, learning to identify potentially dangerous situations was essential for survival
 - How does negativity bias related to UX? 
 	- Single usability flaw on your site will weigh more than the many positive features
