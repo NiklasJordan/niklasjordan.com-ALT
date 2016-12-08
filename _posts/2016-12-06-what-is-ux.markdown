@@ -36,6 +36,7 @@ But this is only one of many scenarios. There are a lot more scenarios an NGO or
 - You make an information booth at a festival
 - *there are a lot more*
 
+## How you build great UX?
 You see, UX is related to everything. Per Axbom has written a [great article](http://axbom.com/ux-definition/) about that. Here's an extract:
 - UX is related to **design** because it is about problem-solving. We must understand why we are building something and then use design efforts to explore and test our options. This includes exploring aesthetic, functional, economic and socio-political dimensions to accomplish our goals.
 - UX is related to **business** because it tries to understand what aspects of user needs must be accommodated for a business to progress.
