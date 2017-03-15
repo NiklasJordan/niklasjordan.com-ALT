@@ -21,14 +21,12 @@ defaults:
   values:
     layout: page
 Site-Name: Niklas Jordan &middot; UX Professional
-MetaDescription: I help good organizations create products and services people need
-  (and love) that have a good impact on their mission and the world. I do this through
-  smart research, experience and psychology.
+MetaDescription: I am Niklas, a UX guy that combines passion in psychology, human-centered design, accessibility and technology to improve the impact of Nonprofits.
 Twitter: "@niklas_jordan"
 GooglePlus: https://plus.google.com/u/0/104211211117831167754
 navigation:
-- title: Who I am & what I do
-  url: "/who-i-am.html"
+- title: About
+  url: "/about.html"
 - title: UX Review
   url: "/ux-review.html"
 - title: Contact

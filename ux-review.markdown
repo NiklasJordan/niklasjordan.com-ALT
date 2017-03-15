@@ -22,7 +22,7 @@ memory. And we associate our anger with your organization ...</p>
 
 > Good UX is a lot of things. But most importantly, it respects a person’s time and establishes trust. And, in the context of giving back — a person’s generosity. People contribute more when they can feel the problem and then the result of contribution.
 
-<a href="https://niklasjordan.typeform.com/to/zM6L57" target="_blank" class="btn btn-primary">You want better UX? Let’s go!</a>
+<a href="https://niklasjordan.typeform.com/to/zM6L57" target="_blank" class="prime-actn">You want better UX? Let’s go!</a>
 
 ## What is a UX Review
 In a user experience check, we evaluate the usability of your website or your online store regarding common
@@ -30,7 +30,7 @@ usability principles and best practices.
 
 I will be looking for anything that stands out to us as being a problem with regard to the user experience, appearance, usability, and accessibility.
 
-<a href="https://niklasjordan.typeform.com/to/zM6L57" target="_blank" class="btn btn-primary">You want one? Let’s go!</a>
+<a href="https://niklasjordan.typeform.com/to/zM6L57" target="_blank" class="prime-actn">You want one? Let’s go!</a>
 
 ### What do you get from me?
 <p class="half">The deliverable will be a document with snapshots and notes describing specific product areas that could be improved from a UX standpoint.</p>
@@ -45,7 +45,7 @@ And even more:
 <li> I help you to find the best people to fix your issues</li>
 </ul>
 
-<a href="https://niklasjordan.typeform.com/to/zM6L57" target="_blank" class="btn btn-primary">Apply for a <i>free</i> UX Review</a>
+<a href="https://niklasjordan.typeform.com/to/zM6L57" target="_blank" class="prime-actn">Apply for a <i>free</i> UX Review</a>
 
 ### For *free*? Are you drunk? :confused:
 <p class="half">Of course <strong>not</strong>. Everyone should help with what he can do well. And my talent is to provide the best services and products for users. The talent of many organizations is to find solutions and master challenges that come in the way of a better life, equality, or more consideration for nature. Unfortunately, the digital platforms are not used optimally. To change that, I offer my help.</p>
@@ -64,4 +64,8 @@ Last but not least, **be fair**.  I can only offer the free UX review as long as
 ### OKAY, NICE. BUT WHY DON’T YOU TAKE MONEY FOR YOUR WORK?
 <p class="half">:smirk: Yep, I think everybody should give something more than he takes. In addition, I do not earn my money as a freelancer because I have a contract. So, I'm simply not relying on the money of such jobs. :wink: However, one must also honestly say that this UX review would not have the same size as a paid one. Usually, average UX review needs 5–10 days. I invest for the free review one day.</p>
 
-<a href="https://niklasjordan.typeform.com/to/zM6L57" target="_blank" class="btn btn-primary">Apply for a <i>free</i> UX Review</a>
+<div class="actn-box">
+  <h3>Get your free UX Review</h3>
+  <p class="hug">Let us bring your user experience to the next level.</p>
+  <p><a class="prime-actn" href="https://niklasjordan.typeform.com/to/zM6L57">Apply for your UX Review</a><a class="second-actn" href="http://www.niklasjordan.com/contact.html">Have questions? Drop me a line.</a></p>
+</div>
