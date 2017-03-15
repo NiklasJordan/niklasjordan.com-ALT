@@ -26,6 +26,9 @@ UX research can help with all manner of  challenges and questions, such as:
 - We have an idea for a new service / new product or a new feature - how do we know if our users find it useful?
 - Why is our conversion rate decreasing?
 
+### UX Design
+
+
 ## Some clients
 Here are some selected organisations I had the pleasure working with: <a href="#">Flüchtlingsrat Mecklenburg-Vorpommern</a>/<a href="#">PRO ASYL</a> (National Refugee initiative), <a href="#">Hamburger Fernhochschule</a> (Non-profit university), <a href="#">Flüchtlingshilfe Schwerin</a> (Local Refugee initiative), <a href="#">WIR. Erfolg braucht Vielfalt.</a> (Initiative for civil courage and democratic engagement), <a href="#">Sea Shepherd</a> (International Marine Wildlife Conservation Organization) and <a href="#">Laut gegen Rechts</a> (Event series against racism).
 
