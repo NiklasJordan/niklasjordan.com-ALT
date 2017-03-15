@@ -27,7 +27,6 @@ UX research can help with all manner of  challenges and questions, such as:
 
 ### UX Design
 I use UX design to help untangle social challenges, develop much more effective tools and make the world a better place.
-I practice human-centered design, a creative approach to problem solving that starts with people and arrives at new solutions tailored to meet their lives.
 
 Its include:
 - Workshops
@@ -35,6 +34,12 @@ Its include:
 - Wireframing & Prototyping
 - Expert UX Reviews & Design Recommendations
 - Usability Testing
+
+### UX Strategy
+Strategy help to provide coherence and coordination across all of your digital projects, products and services. A strategic approach will provide you with a clear vision that ensures you get the most out of your mission.
+
+Strategy services include:
+- 
 
 ## Some clients
 Here are some selected organisations I had the pleasure working with: <a href="#">Flüchtlingsrat Mecklenburg-Vorpommern</a>/<a href="#">PRO ASYL</a> (National Refugee initiative), <a href="#">Hamburger Fernhochschule</a> (Non-profit university), <a href="#">Flüchtlingshilfe Schwerin</a> (Local Refugee initiative), <a href="#">WIR. Erfolg braucht Vielfalt.</a> (Initiative for civil courage and democratic engagement), <a href="#">Sea Shepherd</a> (International Marine Wildlife Conservation Organization) and <a href="#">Laut gegen Rechts</a> (Event series against racism).
