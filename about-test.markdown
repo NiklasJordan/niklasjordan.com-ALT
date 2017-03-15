@@ -28,7 +28,7 @@ UX research can help with all manner of  challenges and questions, such as:
 ### UX Design
 I use UX design to help untangle social challenges, develop much more effective tools and make the world a better place.
 
-Its include:
+It's include:
 - Workshops
 - Research, Checks & Audits
 - Wireframing & Prototyping
