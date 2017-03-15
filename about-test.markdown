@@ -30,7 +30,6 @@ I use UX design to help untangle social challenges, develop much more effective 
 I practice human-centered design, a creative approach to problem solving that starts with people and arrives at new solutions tailored to meet their lives.
 
 Its include:
-
 - Workshops
 - Research, Checks & Audits
 - Wireframing & Prototyping
