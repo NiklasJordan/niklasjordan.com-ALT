@@ -30,7 +30,7 @@ UX research can help with all manner of  challenges and questions, such as:
 I use UX design to help untangle social challenges, develop much more effective tools and make the world a better place.
 I practice human-centered design, a creative approach to problem solving that starts with people and arrives at new solutions tailored to meet their lives.
 
-Its include...
+Its include:
 
 - Workshops
 - Research, Checks & Audits
