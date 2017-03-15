@@ -14,49 +14,35 @@ A picture of me during a consultation.
 
 ## Services I can help you with
 
-<div class="container">
-    <div class="spalte text-klein abstand">
-      <h3>UX Research</h3>
-      <p class="half">UX research provides a window into your volunteers’ and donors’ world: from what they need to what makes them tick. Research takes the guesswork out of creating a great experience and give you the insight and evidence you need to make the right decisions.</p>
-      <p><strong>What can I do for you:</strong></p>
-      <ul class="hug">
-        <li>Consulting and give lessons</li>
-        <li>Task Analysis</li>
-        <li>User Research Methods</li>
-        <li>Checks & Audits</li>
-        <li>Wireframing & Prototyping</li>
-        <li>Expert UX Reviews & Design Recommendations</li>
-        <li>Usability Testing - design, facilitation, analysis, reporting</li>
-      </ul>
-    </div>
-    <div class="spalte text-klein abstand">
-      <h3>UX Design</h3>
-      <p class="half">I use UX design to answer challenging problems and find opportunities to go beyond initial thinking.</p>
-      <p><strong>What can I do for you:</strong></p>
-      <ul class="hug">
-        <li>Consulting and give lessons</li>
-        <li>Task Analysis</li>
-        <li>User Research Methods</li>
-        <li>Checks & Audits</li>
-        <li>Wireframing & Prototyping</li>
-        <li>Expert UX Reviews & Design Recommendations</li>
-        <li>Usability Testing - design, facilitation, analysis, reporting</li>
-      </ul>
-    </div>
-    <div class="spalte text-klein">
-      <h3>UX Strategy</h3>
-      <p class="half">My UX strategy services help to provide coherence and coordination across all of your digital projects and products. A strategic approach will provide you with a clear vision that ensures you get the greatest return on your investment in UX.</p>
-      <p><strong>What can I do for you:</strong></p>
-      <ul class="hug">
-        <li>User Journey & Analysis</li>
-        <li>Find low hanging fruits</li>
-        <li>A/B Testing & Content Experiments</li>
-        <li>Heatmapping & Eye-Tracking</li>
-        <li>Build Landingpages & optimize it</li>
-        <li>Implement & Reporting</li>
-      </ul>
-    </div>
-</div>
+### UX Research
+UX research provides a window into your volunteers’ and donors’ world: from what they need to what makes them tick. Research takes the guesswork out of creating a great experience and give you the insight and evidence you need to make the right decisions.
+
+UX research can help with all manner of  challenges and questions, such as:
+- What interests our users?
+- Why bounce users without a conversion (like a donation, newsletter subscription, etc.)
+- How can we attract new donors?
+- How can we convince users of our mission?
+- How can we provide an excellent donation experience?
+- We have an idea for a new service / new product or a new feature - how do we know if our users find it useful?
+- Why is our conversion rate decreasing?
+
+### UX Design
+I use UX design to help untangle social challenges, develop much more effective tools and make the world a better place.
+
+It's include:
+- Workshops
+- Research, Checks & Audits
+- Wireframing & Prototyping
+- Expert UX Reviews & Design Recommendations
+- Usability Testing
+
+### UX Strategy
+Strategy help to provide coherence and coordination across all of your digital projects, products and services. A strategic approach will provide you with a clear vision that ensures you get the most out of your mission.
+
+Strategy services include:
+- Integrating UX across your organisation
+- Creating a digital vision and roadmap for the future
+- Supporting the digital transformation of your organisation
 
 ## Some clients
 Here are some selected organisations I had the pleasure working with: <a href="#">Flüchtlingsrat Mecklenburg-Vorpommern</a>/<a href="#">PRO ASYL</a> (National Refugee initiative), <a href="#">Hamburger Fernhochschule</a> (Non-profit university), <a href="#">Flüchtlingshilfe Schwerin</a> (Local Refugee initiative), <a href="#">WIR. Erfolg braucht Vielfalt.</a> (Initiative for civil courage and democratic engagement), <a href="#">Sea Shepherd</a> (International Marine Wildlife Conservation Organization) and <a href="#">Laut gegen Rechts</a> (Event series against racism).
