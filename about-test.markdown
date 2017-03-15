@@ -33,6 +33,7 @@ I use UX design to help untangle social challenges, develop much more effective 
 - Checks & Audits
 - Wireframing & Prototyping
 - Expert UX Reviews & Design Recommendations
+- Checks & Audits
 - Usability Testing - design, facilitation, analysis, reporting
 - User Journey & Analysis
 
