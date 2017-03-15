@@ -1,7 +1,6 @@
 ---
 title: About Test
 date: 2017-03-15 14:17:00 Z
-published: false
 ---
 
 # About me
