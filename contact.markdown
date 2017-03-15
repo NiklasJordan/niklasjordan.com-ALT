@@ -18,7 +18,7 @@ layout: page
         <li>Writing & interview requests</li>
         <li>Partnership requests for projects</li>
       </ul>
-      <a href="https://niklasjordan.typeform.com/to/CPASuU" target="_blank" class="btn btn-primary">Go to Contact Form</a>
+      <a href="https://niklasjordan.typeform.com/to/CPASuU" target="_blank" class="prime-actn">Go to Contact Form</a>
       <p class="half"><i>or</i> write me a mail: <a href="mailto:hello@niklasjordan.com">hello@niklasjordan.com</a></p>
     </div>
     <div class="spalte">

@@ -17,7 +17,7 @@ layout: Post
 
     <article role="main">
       <h1>{{ page.title }}</h1>
-      <p class="post-date">{{ page.date | date: '%B %d, %Y' }}</p>
+      <p class="post-date">{{ page.date | date: '%B %d, %Y' }} <span class="readingtime">Reading time ~{% include reading_time.html %}</span></p>
       {{ content }}
       <h2>Questions <i>or</i> Feedback?</h2>
       <p>You can reach me on Twitter at <a href="https://twitter.com/niklas_jordan">@niklas_jordan</a> or by emailing me at <a href="mailto:hello@niklasjordan.com">hello@niklasjordan.com</a>.</p>
