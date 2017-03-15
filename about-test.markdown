@@ -39,7 +39,9 @@ It's include:
 Strategy help to provide coherence and coordination across all of your digital projects, products and services. A strategic approach will provide you with a clear vision that ensures you get the most out of your mission.
 
 Strategy services include:
-- 
+- Integrating UX across your organisation
+- Creating a digital vision and roadmap for the future
+- Supporting the digital transformation of your organisation
 
 ## Some clients
 Here are some selected organisations I had the pleasure working with: <a href="#">Flüchtlingsrat Mecklenburg-Vorpommern</a>/<a href="#">PRO ASYL</a> (National Refugee initiative), <a href="#">Hamburger Fernhochschule</a> (Non-profit university), <a href="#">Flüchtlingshilfe Schwerin</a> (Local Refugee initiative), <a href="#">WIR. Erfolg braucht Vielfalt.</a> (Initiative for civil courage and democratic engagement), <a href="#">Sea Shepherd</a> (International Marine Wildlife Conservation Organization) and <a href="#">Laut gegen Rechts</a> (Event series against racism).
